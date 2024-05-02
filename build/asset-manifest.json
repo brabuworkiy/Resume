@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Resume.git/static/css/main.578f754a.css",
+    "main.js": "/Resume.git/static/js/main.9bb00ab7.js",
+    "static/js/453.7fcac2c8.chunk.js": "/Resume.git/static/js/453.7fcac2c8.chunk.js",
+    "static/media/filezilla.png": "/Resume.git/static/media/filezilla.4ccf3e9413303d840e88.png",
+    "static/media/python.png": "/Resume.git/static/media/python.da574f714779b6ef8abd.png",
+    "static/media/az.png": "/Resume.git/static/media/az.cc6a0d067d3c9ca4edac.png",
+    "static/media/jira.png": "/Resume.git/static/media/jira.581b5866625e1b506f23.png",
+    "index.html": "/Resume.git/index.html",
+    "main.578f754a.css.map": "/Resume.git/static/css/main.578f754a.css.map",
+    "main.9bb00ab7.js.map": "/Resume.git/static/js/main.9bb00ab7.js.map",
+    "453.7fcac2c8.chunk.js.map": "/Resume.git/static/js/453.7fcac2c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.578f754a.css",
+    "static/js/main.9bb00ab7.js"
+  ]
+}
